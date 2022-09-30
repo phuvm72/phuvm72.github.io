@@ -1,6 +1,6 @@
 ---
 title: "CS4310 Computer Networks"
-collection: teaching
+collection: TA
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "TXST "
